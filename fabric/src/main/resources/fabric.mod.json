@@ -5,7 +5,10 @@
 
   "name": "PlayTimeRemake",
   "description": "",
-  "authors": [],
+  "authors": [
+    "Jakeybobble",
+    "baka4n"
+  ],
   "contact": {},
 
   "license": "MIT",
